@@ -6,3 +6,9 @@ i want go home
 엄마 보고 싶음
 
 asdfgasfdasfafewfwefweffwfe
+<<<<<<< HEAD
+=======
+
+
+akjhkdjfhskjf
+>>>>>>> develop
