@@ -1,4 +1,4 @@
-git commit -m "sudo list 수정내용"
+git commit -m "sudo list 수정내용 2"
 
 test page
 
