@@ -1,7 +1,9 @@
-git commit -m "sudo list 수정내용 3"
+git commit -m "sudo list 수정내용 4"
 
 test page
 
 i want go home
+엄마 보고 싶음
 
 tegioejtogiejogjeogirnegnio fgawg
+asdfgasfdasfafewfwefweffwfe
