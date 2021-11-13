@@ -3,9 +3,6 @@ git commit -m "sudo list 수정내용 4"
 test page
 
 i want go home
-<<<<<<< HEAD
 엄마 보고 싶음
-=======
 
 asdfgasfdasfafewfwefweffwfe
->>>>>>> 2743afff767d884fc1f1db4dfc79300d6847a8f6
